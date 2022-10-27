@@ -2,11 +2,11 @@ G'day :cowboy_hat_face: I'm Srinath and I live down under :australia:. I am a di
 
 #### Work
 
-Bash, JavaScript, TypeScript, Node.js, Terraform, AWS, Nginx + Lua, Python
+JavaScript, TypeScript, Node.js, Go, Terraform, AWS, Nginx + Lua, Python, Bash
 
 #### Play
 
-Go, Elm, Rust
+Elm, Rust
 
 #### Toys
 
@@ -15,4 +15,3 @@ Go, Elm, Rust
 [ghviz](https://ghviz.netlify.app) - Visualize GitHub orgs and repos [JavaScript, React]
 
 [Deckosaur](https://deckosaur.netlify.app) - Markdown powered presentation deck [Elm]
-
